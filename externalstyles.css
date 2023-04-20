@@ -1,0 +1,44 @@
+
+
+img		{border-color: transparent;}
+
+body {background-color:ivory}
+
+h1 {
+	color: #A9D08E;
+	text-align:center;
+	font-size: 300%
+	}
+	
+h2 {
+	color: #A9D08E;
+	text-align: center;
+	font-size: 300%
+	}
+	
+
+
+table	{width: 65%;
+		margin-left: auto; 
+		margin-right: auto;
+		border-color: grey;
+		border-style: ridge;
+		border-width: 10px;}
+		
+	
+	.menu	{text-align: center;
+			width: 60%;}
+
+	.menuicon {width: 23%;}
+
+	.menupipe {width: 1%;}
+
+th		{color: white; 
+		background-color: lightgrey;}
+
+tr.stripe	{background-color: lightgrey;}
+	 
+td.bolder	{font-weight: bold;}
+
+caption	{caption-side: bottom;
+		font-style: italic;}
